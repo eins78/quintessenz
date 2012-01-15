@@ -23,19 +23,6 @@ at the end of the line.
 
 Links:
 [external](http://google.com),
-[Wiki Link](),
-![image](/img/gitit-banner.png),
-[to heading](#section-heading).
-
-Indented code block:
-
-    #include <stdbool.h>
-
-Or use a delimited code block:
-
-~~~ { .haskell }
-let a = 1:a in head a
-~~~
 
 - bulleted
 - list
