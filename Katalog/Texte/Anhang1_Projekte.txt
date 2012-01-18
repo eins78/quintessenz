@@ -1,4 +1,6 @@
-\item[WS 2007/08] {\large \textbf{Projekt:} \emph{„Wie es Euch gefällt“} }
+Wintersemester 2007/08
+Projekt: „Wie es Euch gefällt“
+
 
 Prof. Norbert W. Hinterberger /  M.F.A. Naomi T. Salmon
 
@@ -11,7 +13,9 @@ Besonderes Augenmerk wird, wie in den vergangenen Projekten, auf den Kontext gel
 Ausstellungen am Beginn des Semesters (z. B. im Austausch mit einer Gruppe von Dresdner Kunststudenten), Exkursionen (in der 3. Oktoberwoche ist eine Fahrt zur Biennale Venezia geplant) und Vorträge runden das Angebot im kommenden Wintersemester ab und sorgen für einen regen Austausch von Konzeptionen und Interpretationen der Kunstproduktion.
 
 
-\item[SS 2008] {\large \textbf{Projekt:} \emph{„Alles oder Nichts“} }
+Sommersemester 2008
+Projekt: „Alles oder Nichts“
+
 
 Prof. Norbert W. Hinterberger /  M.F.A. Naomi T. Salmon
 
@@ -30,7 +34,8 @@ Eine zweiwöchige Arbeitsexkursion nach Israel (Jerusalem, Tel Aviv, Wüste) wir
 Am Ende des Semester werden in einer Ausstellung sowohl die Resultate der Arbeitsexkursion als auch des gesamten Semesters gezeigt.
 
 
-\item[WS 2008/09] {\large \textbf{Projekt:} \textit{„…wenn das Gute liegt so nah“ (Alltag als Fundgrube)}}
+Wintersemester 2008/09
+Projekt: „…wenn das Gute liegt so nah“ (Alltag als Fundgrube)
 
 Prof. Norbert W. Hinterberger /  M.F.A. Naomi T. Salmon
 
@@ -45,17 +50,16 @@ Es sind alle Formen der medialen Bandbreite möglich: Sammlung, Zeichnung, Fotog
 Vorträge, Exkursionen und Gespräche mit Künstlern und Wissenschaftlern geben den Input für das Projekt und begleiten dieses bis zur endgültigen Ausstellung.
 
 
-\item[SS 2009] {\large \textbf{Projekt:} \emph{„Der Tanz auf dem Vulkan“} }
+Sommersemester 2009
+Projekt: „Der Tanz auf dem Vulkan“
+
 
 Prof. Norbert W. Hinterberger /  M.F.A. Naomi T. Salmon
 
-\begin{quote}
+
 „All meine Bücher handeln ja davon, dass unsere humane Gesittung wie die Kruste über der ausgespienen Lava eines Vulkans ist. Sie sieht fest aus, aber wenn man den Fuß draufsetzt, spürt man die Lava.“
-\begin{flushright}
-\vspace{-6pt}
-\emph{James Graham Ballard}
-\end{flushright}
-\end{quote}
+James Graham Ballard
+
 
 Das ständige Anwachsen von Erdenbürgern und der damit kumulierenden Probleme wird gerne mit der Metapher vom „Tanz auf dem Vulkan“ beschrieben.
 
@@ -73,7 +77,8 @@ Das Leben unter dem Vulkan, wo eine traditionelle Gesellschaft mit einer spezifi
 Während und nach der Reise werden Diskussionen, Inspirationen und Erfahrungen Eingang in das restliche Semesterprogramm finden und die Resultate zum Rundgang einer breiteren Öffentlichkeit präsentiert.
 
 
-\item[WS 2009/10] {\large \textbf{Projekt:} \emph{„RE:volution“}} 
+Wintersemester 2009/10
+Projekt: „RE:volution“ 
 
 Prof. Norbert W. Hinterberger /  M.F.A. Naomi T. Salmon
 
@@ -90,7 +95,8 @@ Im Projekt sollen an Hand von Beispielen die Wechselwirkung von Evolution und Re
 Vorträge, Exkursionen und Diskussionen rund ums Thema bieten die notwendige theoretische Basis, um das Projekt mit einer Abschluss-Ausstellung effizient abzuschließen.
 
 
-\item[SS 2010] {\large \textbf{Projekt:} \emph{„Some Like It Hot“}} 
+Sommersemester 2010
+Projekt: „Some Like It Hot“ 
 
 Prof. Norbert W. Hinterberger /  M.F.A. Naomi T. Salmon
 
@@ -105,7 +111,8 @@ Gerade das Morgenland beflügelte die Phantasie durch die offenkundige Attraktiv
 Neben eine Exkursion nach Ägypten Anfang Mai, sollen die Themen Orientalismus, Postkolonialismus, Islam und Religion Konflikte sowie erotische 1001 Nacht Träume erforscht und künstlerisch bearbeitet werden. Vorträge, Exkursionen, Filme, Literatur und Diskussionen sowie kleine Aufgaben begleiten die Reise. Das Projekt wird mit einer Abschluss-Ausstellung zu Summary Rundgang präsentiert.
 
 
-\item[WS 2010/11] {\large \textbf{Projekt:} \emph{„Geld oder Leben?“}} 
+Wintersemester 2010/11
+Projekt: „Geld oder Leben?“ 
 
 Prof. Norbert W. Hinterberger /  M.F.A. Naomi T. Salmon
 
@@ -120,11 +127,12 @@ Der Künstler – in der Vergangenheit und Gegenwart auch stets als Hungerleider
 
 Die Orientierung der Fragestellung „Geld oder Leben“ kann für die Studierenden des Projektes entweder individuell im Hinblick auf ihre eigenen Prioritäten oder im politischen Sinne behandelt und erarbeitet werden. Die Resultate werden in einer Ausstellung gezeigt.
 
-Blog: \url{www.geldoderleben.tk}
+Blog: www.geldoderleben.tk
 
 
 
-\item[SS 2011] {\large \textbf{Projekt:} \emph{„Die Geburt der Tragödie“}} 
+Sommersemester 2011
+Projekt: „Die Geburt der Tragödie“ 
 
 Prof. Norbert W. Hinterberger /  M.F.A. Naomi T. Salmon
 
@@ -136,7 +144,7 @@ Das Projekt bietet die Möglichkeit, den eigenen künstlerischen Standpunkt mit 
 
 Vorträge, Filme, Lesungen und die eigene Forschung sowie eine Reise nach Italien (Rom und Latium) sollen Intellekt und Sinne für das Thema schärfen. Darüber hinaus wird das Lehrangebot noch durch Tutoren aus dem PhD-Studiengang, Daniel Klapsing und Robert Wegener angereichert.
 
-Blog: \url{www.geburtdertragödie.tk}
+Blog: www.geburtdertragödie.tk
 
 
 
